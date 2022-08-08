@@ -6,3 +6,4 @@ Semana 1:
 
 + :dart: 08/08/2022: Clase Inicio: Presentación del curso.
 + :dart: 10/08/2022: Clase en sala de computación.
+
