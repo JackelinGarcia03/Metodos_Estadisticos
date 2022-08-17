@@ -11,6 +11,7 @@ Semana 2:
 
 + :dart: 15/08/2022: Sala de computo: El Método Científico.
 + :dart: 17/08/2022: Sala de computo: Diseño de la encuesta.
+
 Semana 3:
 
 + :dart: 22/08/2022: 
