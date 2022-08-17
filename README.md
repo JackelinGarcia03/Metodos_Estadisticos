@@ -9,20 +9,20 @@ Semana 1:
 
 Semana 2:
 
-+ :dart: 15/08/2022: El Método Científico.
-+ :dart: 16/08/2022: 
++ :dart: 15/08/2022: Sala de computo: El Método Científico.
++ :dart: 17/08/2022: Sala de computo: Datos (Intervalo, Ordinales y Categoricos)
 
 Semana 3:
 
 + :dart: 22/08/2022: 
-+ :dart: 23/08/2022: 
++ :dart: 24/08/2022: 
 
 Semana 4:
 
 + :dart: 29/08/2022: 
-+ :dart: 30/08/2022:
++ :dart: 31/08/2022:
 
 Semana 5:
 
 + :dart: 05/09/2022:
-+ :dart: 06/09/2022: 
++ :dart: 07/09/2022: 
