@@ -14,7 +14,7 @@ Semana 2:
 
 Semana 3:
 
-+ :dart: 22/08/2022: 
++ :dart: 22/08/2022:Sala de computo: Continuación con el diseño de la encuesta 
 + :dart: 24/08/2022: 
 
 Semana 4:
