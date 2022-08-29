@@ -15,11 +15,11 @@ Semana 2:
 Semana 3:
 
 + :dart: 22/08/2022: Sala de computo: Continuación con el diseño de la encuesta 
-+ :dart: 24/08/2022: 
++ :dart: 24/08/2022: Sala de computo: Terminacion y correciones de la encuesta para llevarla a cabo.
 
 Semana 4:
 
-+ :dart: 29/08/2022: 
++ :dart: 29/08/2022: Sala de computo: Elaboración de la base de datos con los datos recolectados de la encuesta. 
 + :dart: 31/08/2022:
 
 Semana 5:
