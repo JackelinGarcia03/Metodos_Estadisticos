@@ -20,7 +20,7 @@ Semana 3:
 Semana 4:
 
 + :dart: 29/08/2022: Sala de computo: Elaboración de la base de datos con los datos recolectados de la encuesta. 
-+ :dart: 31/08/2022:
++ :dart: 31/08/2022: Sala de computo: Trabajar con la base de datos.
 
 Semana 5:
 
