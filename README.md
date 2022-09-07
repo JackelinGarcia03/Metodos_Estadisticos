@@ -24,5 +24,5 @@ Semana 4:
 
 Semana 5:
 
-+ :dart: 05/09/2022:
-+ :dart: 07/09/2022: 
++ :dart: 05/09/2022: ----Suspension de clases debido a las fuertes lluvias----
++ :dart: 07/09/2022: Sala de computo: Continuacion con la base de datos trabajando en R
