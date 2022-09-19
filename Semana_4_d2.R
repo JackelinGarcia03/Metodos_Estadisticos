@@ -40,20 +40,20 @@ table(Entrevista$Carrera)
 car <- table(Entrevista$Carrera)
 prop.table(car)*100
 
-#¿Cuantos alumnos participaron por semestre?
+# ¿Cuantos alumnos participaron por semestre?
 sem <- table(Entrevista$Semestre)
 prop.table(sem)*100
                   
-#¿Cual es el rango de edad de los participantes?
+# ¿Cual es el rango de edad de los participantes?
 range(Entrevista$Edad)
 
-#¿Como te enteraste de la facultad?
+# ¿Como te enteraste de la facultad?
 conFCF <- table(Entrevista$oi_1)
 conFCF
 prop.table(conFCF)*100
-pie(prop.table(conFCF)*100)
+pie(prop.table(conFCF)*100
 
-  #¿Fué tu primera opcion la FCF?
+#¿Fué tu primera opcion la FCF?
 op <- table(Entrevista$oi_2)
 prop.table(op)*100
 
@@ -98,3 +98,4 @@ prop.table(ap_3)*100
 
 # Guardar la BD con los datos nuevos en formato csv
 write.csv(Entrevista, "Encuesta_codificada.csv")
+
