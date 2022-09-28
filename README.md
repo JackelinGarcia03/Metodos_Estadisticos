@@ -5,7 +5,7 @@ Curso de Métodos Estadísticos Semestre AGO_DIC 2022
 Semana 1:
 
 + :dart: 08/08/2022: Clase Inicio: Presentación del curso.
-+ :dart: 10/08/2022: ---No hubo clases---.
++ :dart: 10/08/2022: Clase en la sala de Computo.
 
 Semana 2:
 
