@@ -35,4 +35,10 @@ Semana 6:
 Semana 7:
 
 + :dart: 19/09/2022: Sala de computo: finalizacion con el trabajar con la base de la encuesta. Semana_4_d2
-+ :dart: 21/09/2022: 
++ :dart: 21/09/2022: Sala de computo: Presentación de lo avanzado en la entrevista
+
+
+Semana 8:
+
++ :dart: 26/09/2022: --- Salida de campo ---
++ :dart: 28/09/2022: Sala de computo: Actualizacion del archivo Readme
