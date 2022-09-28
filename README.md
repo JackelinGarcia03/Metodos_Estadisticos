@@ -29,8 +29,8 @@ Semana 5:
 
 Semana 6:
 
-+ :dart: 12/09/2022: ----No hubo clases----
-+ :dart: 14/09/2022: ----No hubo clases----
++ :dart: 12/09/2022: ----Trabajo autonomo----
++ :dart: 14/09/2022: ----Trabajo autonomo----
 
 Semana 7:
 
