@@ -41,3 +41,8 @@ Semana 8:
 
 + :dart: 26/09/2022: --- Salida de campo ---
 + :dart: 28/09/2022: Sala de computo: Actualizacion del archivo Readme
+
+Semana 9:
+
++ :dart: 03/10/2022: --- No hubo clases ---
++ :dart: 05/10/2022: Examen 
