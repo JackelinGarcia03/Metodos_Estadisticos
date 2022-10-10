@@ -34,8 +34,8 @@ Semana 6:
 
 Semana 7:
 
-+ :dart: 19/09/2022: Sala de computo: finalizacion con el trabajar con la base de la encuesta. Semana_4_d2
-+ :dart: 21/09/2022: Sala de computo: Presentación de datos.
++ :dart: 19/09/2022: Sala de computo: finalizacion con el trabajar con la base de la encuesta. (Semana_4_d2)
++ :dart: 21/09/2022: Sala de computo: Presentación de datos.(Semana_4_d2)
 
 Semana 8:
 
@@ -45,4 +45,9 @@ Semana 8:
 Semana 9:
 
 + :dart: 03/10/2022: --- No hubo clases ---
-+ :dart: 05/10/2022: Examen 
++ :dart: 05/10/2022: Analisis de Varianza (ANOVA)(Semana_9_d2)
+
+Semana 10:
+
++ :dart: 10/10/2022: Seguimiento con el analisis ANOVA (Semana_9_d2)
++ :dart: 12/10/2022: 
