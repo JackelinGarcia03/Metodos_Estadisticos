@@ -44,7 +44,7 @@ Semana 8:
 
 Semana 9:
 
-+ :dart: 03/10/2022: --- No hubo clases ---
++ :dart: 03/10/2022: --- Trabajo autonomo ---
 + :dart: 05/10/2022: Analisis de Varianza (ANOVA)(Semana_9_d2)
 
 Semana 10:
