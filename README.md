@@ -50,4 +50,9 @@ Semana 9:
 Semana 10:
 
 + :dart: 10/10/2022: Seguimiento con el analisis ANOVA (Semana_9_d2)
-+ :dart: 12/10/2022: 
++ :dart: 12/10/2022: Examen: Primer Parcial
+
+Semana 10:
+
++ :dart: 17/10/2022: --- Trabajo Autonomo --- 
++ :dart: 19/10/2022: Sala de Computo: Revision del examen
