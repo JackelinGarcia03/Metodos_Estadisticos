@@ -3,7 +3,7 @@
 # Examen I
 
 library(repmis)
-suelo1 <- read.csv("CLASES/suelo.csv")
+suelo1 <- read.csv("suelo.csv")
 
 #¿Cuántas veces es la diferencia entre la varainza más pequeña y la más grande?
 tapply(suelo1$nematodos, suelo1$suelo, mean)
@@ -37,25 +37,24 @@ summary(par.aov)
 #Valor de P = 9.287
 
 TukeyHSD(par.aov) 
-# S2-S1 = si hay diferencias significativas entre estas dos. (No tocan el 0)
-# S3-S1 = si hay diferencias significativas entre estas dos. (No tocan el 0)
-# S4-S1 = no hay diferencias significativas entre estas dos. (Va desde el negativo al postivio)
-# S5-S1 = si hay diferencias significativas entre estas dos. (No tocan el 0)
+# S2-S1 = no hay diferencias significativas entre estas dos. (No tocan el 0)
+# S3-S1 = no hay diferencias significativas entre estas dos. (No tocan el 0)
+# S4-S1 = si hay diferencias significativas entre estas dos. (Va desde el negativo al postivio)
+# S5-S1 = no hay diferencias significativas entre estas dos. (No tocan el 0)
 # S3-S2 = no hay diferencias significativas entre estas dos. (Van desde el negativo al positivo)
-# S4-S2 = no hay diferencias significativas entre estas dos. (Va desde el negativo al postivio)
-# S5-S2 = si hay diferencias significativas entre estas dos. (No tocan el 0)
+# S4-S2 = si hay diferencias significativas entre estas dos. (Va desde el negativo al postivio)
+# S5-S2 = no hay diferencias significativas entre estas dos. (No tocan el 0)
 # S4-S3 = si hay diferencias significativas entre estas dos. (No tocan el 0)
-# S4-S3 = si hay diferencias significativas entre estas dos. (No tocan el 0)
-# S5-S3 = si hay diferencias significativas entre estas dos. (No tocan el 0)
+# S5-S3 = no hay diferencias significativas entre estas dos. (No tocan el 0)
 # S5-S4 = si hay diferencias significativas entre estas dos. (No tocan el 0)
 
 plot(TukeyHSD(par.aov))
 # Letras iguales no hay diferencias
 # Letras diferentes si hay diferencias
-------------------------------------------------
+
 # lo que toque la linea del 0 hay diferencias
 # lo que no toque la linea del 0 hay diferencias
 
-#¿Cual seria tu conclusion en el contexto del problema?
-#RESPUESTA----------------------------------------------------------------------------
-#Que hay una 95% de nivel de confianza de acuerdo a la tabla.
+# ¿Cual seria tu conclusion en el contexto del problema?
+  
+# RESPUESTA = Que hay una 95% de nivel de confianza de acuerdo a la tabla.
