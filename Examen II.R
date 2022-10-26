@@ -2,7 +2,7 @@
 # 26/10/2022
 # J_Garcia
 
-insecticida 
+ 
 
 data(InsectSprays)
 head(InsectSprays)
