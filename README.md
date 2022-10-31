@@ -64,6 +64,6 @@ Semana 12:
 
 Semana 13:
 
-+ :dart: 31/10/2022: Sala de Computo: 
++ :dart: 31/10/2022: --- Trabajo Autonomo ---
 + :dart: 02/11/2022: Sala de Computo: 
 
