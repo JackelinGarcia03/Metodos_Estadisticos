@@ -60,4 +60,10 @@ Semana 11:
 Semana 12:
 
 + :dart: 24/10/2022: --- Trabajo Autonomo --- 
-+ :dart: 26/10/2022: Sala de Computo: Revision del examen 
++ :dart: 26/10/2022: Sala de Computo: Examen II 
+
+Semana 13:
+
++ :dart: 31/10/2022: Sala de Computo: 
++ :dart: 02/11/2022: Sala de Computo: 
+
