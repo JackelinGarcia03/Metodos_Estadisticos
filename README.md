@@ -71,3 +71,19 @@ Semana 14:
 
 + :dart: 07/11/2022: --- Trabajo Autonomo ---
 + :dart: 09/11/2022: --- Trabajo Autonomo ---
+
+Semana 15:
+
++ :dart: 14/11/2022: --- Trabajo Autonomo ---
++ :dart: 16/11/2022: --- Trabajo Autonomo ---
+
+Semana 16:
+
++ :dart: 21/11/2022: --- Trabajo Autonomo ---
++ :dart: 23/11/2022: --- Trabajo Autonomo ---
+
+Semana 17:
+
++ :dart: 30/11/2022: Examen Global
+
+
